@@ -21,11 +21,6 @@ SET /P AREYOUSURE=Continue to links?
 
 IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
 
-
-
-
-
-
 start https://minecraft-mp.com/server/122086/vote/
 start https://topg.org/minecraft-servers/server-472079
 start https://topminecraftservers.org/server/2296
